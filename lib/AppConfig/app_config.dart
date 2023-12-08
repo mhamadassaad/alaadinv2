@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class AppConfig {
-  static const String hostUrl = 'http://10.0.2.2:8000';
+  static const String hostUrl = 'https://aladdinlb.com/';
 
   static String appName = 'Aladdin';
 
